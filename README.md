@@ -1,6 +1,6 @@
 # web-cookbook
 
-TODO: Enter the cookbook description here.
+TODO: Cookbook to install CDA webapp
 
 ## Supported Platforms
 
