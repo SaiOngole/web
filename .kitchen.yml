@@ -2,10 +2,9 @@
 driver:
   name: vagrant
 
-provisioner:
-  name: chef_zero
 
-  use - provisioner:
+
+use - provisioner:
   name: chef_zero
   require_chef_omnibus: latest
 
