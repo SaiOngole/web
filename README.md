@@ -4,7 +4,7 @@ TODO: Enter the cookbook description here.
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
+TODO: Ubuntu-1204
 
 ## Attributes
 
@@ -39,4 +39,4 @@ Include `web` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Sai Ongole (<songole@amplify.com>)

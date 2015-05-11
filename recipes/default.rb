@@ -2,9 +2,9 @@
 # Cookbook Name:: web
 # Recipe:: default
 #
-# Copyright (C) 2015 YOUR_NAME
+# Copyright (C) 2015 Sai Ongole
 #
-# All rights reserved - Do Not Redistribute
+# No rights reserved - Do Redistribute
 #
 
 execute 'sudo apt-get update'
