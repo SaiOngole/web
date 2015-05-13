@@ -3,6 +3,7 @@
 	'phantomjs', 
 	'grunt',
 	'grunt-cli',
+	'protractor',
 ].each do |node_modules|
 	bash "npm -g install #{node_modules}" do
 		# user ENV['USER']
